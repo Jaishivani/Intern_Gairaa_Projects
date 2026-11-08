@@ -1,0 +1,17 @@
+[
+  {"question": "What is the basic structural and functional unit of life?", "expected_page": 1},
+  {"question": "What role does the cell membrane play?", "expected_page": 2},
+  {"question": "What are the main parts of a eukaryotic cell?", "expected_page": 3},
+  {"question": "What is the function of the nucleus?", "expected_page": 4},
+  {"question": "How do mitochondria help a cell?", "expected_page": 5},
+  {"question": "What happens during photosynthesis?", "expected_page": 6},
+  {"question": "What is the role of chlorophyll?", "expected_page": 7},
+  {"question": "How does cellular respiration release energy?", "expected_page": 8},
+  {"question": "What are the stages of mitosis?", "expected_page": 9},
+  {"question": "How does DNA carry genetic information?", "expected_page": 10},
+  {"question": "What is the difference between genes and chromosomes?", "expected_page": 11},
+  {"question": "How does natural selection affect populations?", "expected_page": 12},
+  {"question": "What are the levels of organization in an ecosystem?", "expected_page": 13},
+  {"question": "How does energy move through a food chain?", "expected_page": 14},
+  {"question": "What is the water cycle?", "expected_page": 15}
+]
